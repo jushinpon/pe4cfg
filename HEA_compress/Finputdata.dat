@@ -1,0 +1,4 @@
+cutoff:  3.0
+pbcx: .False.
+pbcy: .True.
+pbcz: .True.
